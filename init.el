@@ -18,10 +18,8 @@
 (require 'init-ibuffer)
 (require 'init-speedbar)
 (require 'init-python-mode)
+;;(require 'init-smart-tabs-mode)
 
-(setq-default indent-tabs-mode nil)
-(setq-default tab-width 4)
-(setq-default tab-always-indent nil)
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
